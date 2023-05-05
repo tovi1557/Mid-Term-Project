@@ -2,8 +2,8 @@
 "# Mid-Term-Project" 
 65_32203452_이정빈
 
-![뚱이](https://user-images.githubusercontent.com/131770417/236553644-72dea67b-a8a5-4cfa-a1d0-c23304f1c484.jpg)
-![눈맞은 소나무 사진](https://user-images.githubusercontent.com/131770417/236557529-ead191bd-f1a7-428e-bae6-668c4c3372c3.jpg)
-![집 마당](https://user-images.githubusercontent.com/131770417/236557610-45b1fb8d-3907-4ffc-9272-28711267af81.jpg)
-![집마당 - 2](https://user-images.githubusercontent.com/131770417/236557634-4465a003-7cf6-45b8-bdaa-59c389878473.jpg)
-![뚱이 애기때](https://user-images.githubusercontent.com/131770417/236557648-eaf75564-08e7-4458-9796-6332f7730c73.jpg)
+![tree](https://user-images.githubusercontent.com/131770417/236567578-9ca7c72b-ddaa-4d36-bb35-eabf9359b15c.jpg)
+![house1](https://user-images.githubusercontent.com/131770417/236567585-837d48a2-9c4d-46d0-96ca-424db5643569.jpg)
+![house2](https://user-images.githubusercontent.com/131770417/236567586-ec8de28c-8ce6-4e9c-ac5b-d166206f00f7.jpg)
+![2](https://user-images.githubusercontent.com/131770417/236567588-3716e62d-890f-4e73-a661-56c92bf58181.jpg)
+![1](https://user-images.githubusercontent.com/131770417/236567591-1c249d4a-2bce-4844-a109-053c969ab5c2.jpg)
